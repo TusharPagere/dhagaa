@@ -1,0 +1,11 @@
+D:\e-brainiac IT Solutions\Dhagga\DhaggaEnterprise\Dhagaa.DataBusiness\bin\Debug\Dhagaa.DataBusiness.dll
+D:\e-brainiac IT Solutions\Dhagga\DhaggaEnterprise\Dhagaa.DataBusiness\bin\Debug\Dhagaa.DataBusiness.pdb
+D:\e-brainiac IT Solutions\Dhagga\DhaggaEnterprise\Dhagaa.DataBusiness\bin\Debug\Dhagaa.DataEntities.dll
+D:\e-brainiac IT Solutions\Dhagga\DhaggaEnterprise\Dhagaa.DataBusiness\bin\Debug\Dhagg.DataAccess.dll
+D:\e-brainiac IT Solutions\Dhagga\DhaggaEnterprise\Dhagaa.DataBusiness\bin\Debug\Dhagaa.DataEntities.pdb
+D:\e-brainiac IT Solutions\Dhagga\DhaggaEnterprise\Dhagaa.DataBusiness\bin\Debug\Dhagg.DataAccess.pdb
+D:\e-brainiac IT Solutions\Dhagga\DhaggaEnterprise\Dhagaa.DataBusiness\obj\Debug\Dhagaa.DataBusiness.csprojAssemblyReference.cache
+D:\e-brainiac IT Solutions\Dhagga\DhaggaEnterprise\Dhagaa.DataBusiness\obj\Debug\Dhagaa.DataBusiness.csproj.CoreCompileInputs.cache
+D:\e-brainiac IT Solutions\Dhagga\DhaggaEnterprise\Dhagaa.DataBusiness\obj\Debug\Dhagaa.DataBusiness.csproj.CopyComplete
+D:\e-brainiac IT Solutions\Dhagga\DhaggaEnterprise\Dhagaa.DataBusiness\obj\Debug\Dhagaa.DataBusiness.dll
+D:\e-brainiac IT Solutions\Dhagga\DhaggaEnterprise\Dhagaa.DataBusiness\obj\Debug\Dhagaa.DataBusiness.pdb

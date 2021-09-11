@@ -1,0 +1,6 @@
+D:\e-brainiac IT Solutions\Dhagga\DhaggaEnterprise\Dhagg.DataAccess\bin\Debug\Dhagg.DataAccess.dll
+D:\e-brainiac IT Solutions\Dhagga\DhaggaEnterprise\Dhagg.DataAccess\bin\Debug\Dhagg.DataAccess.pdb
+D:\e-brainiac IT Solutions\Dhagga\DhaggaEnterprise\Dhagg.DataAccess\obj\Debug\Dhagg.DataAccess.csprojAssemblyReference.cache
+D:\e-brainiac IT Solutions\Dhagga\DhaggaEnterprise\Dhagg.DataAccess\obj\Debug\Dhagg.DataAccess.csproj.CoreCompileInputs.cache
+D:\e-brainiac IT Solutions\Dhagga\DhaggaEnterprise\Dhagg.DataAccess\obj\Debug\Dhagg.DataAccess.dll
+D:\e-brainiac IT Solutions\Dhagga\DhaggaEnterprise\Dhagg.DataAccess\obj\Debug\Dhagg.DataAccess.pdb

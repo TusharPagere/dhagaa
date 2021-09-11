@@ -1,0 +1,6 @@
+D:\e-brainiac IT Solutions\Dhagga\DhaggaEnterprise\Dhagaa.DataEntities\bin\Debug\Dhagaa.DataEntities.dll
+D:\e-brainiac IT Solutions\Dhagga\DhaggaEnterprise\Dhagaa.DataEntities\bin\Debug\Dhagaa.DataEntities.pdb
+D:\e-brainiac IT Solutions\Dhagga\DhaggaEnterprise\Dhagaa.DataEntities\obj\Debug\Dhagaa.DataEntities.csprojAssemblyReference.cache
+D:\e-brainiac IT Solutions\Dhagga\DhaggaEnterprise\Dhagaa.DataEntities\obj\Debug\Dhagaa.DataEntities.csproj.CoreCompileInputs.cache
+D:\e-brainiac IT Solutions\Dhagga\DhaggaEnterprise\Dhagaa.DataEntities\obj\Debug\Dhagaa.DataEntities.dll
+D:\e-brainiac IT Solutions\Dhagga\DhaggaEnterprise\Dhagaa.DataEntities\obj\Debug\Dhagaa.DataEntities.pdb
